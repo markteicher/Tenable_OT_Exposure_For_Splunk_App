@@ -22,7 +22,7 @@ Tenable OT Exposure for Splunk App
 - GraphQL API for Tenable OT is poorly documented, it takes years to master GraphQL Schema archaeology + API reconstruction + OT domain modeling then apply that to Tenable's attempt after Indegy ICS acquisition where most Enterprises will leverage less than 1% of the API capabilities
 
 - The User Interface is not designed for large scale administration for asset owners, no operational management for operational utilization, health, user monitoring, activity day over day, week over week, month over month, quarter over quarter, year over year.
-- 
+  
 - No User Access Reviews, No Asset fatigure review, no Policy fatigure is covered.
   
 
